@@ -1,0 +1,40 @@
+{
+  "name": "openrov-mjpeg-video-webcomponent",
+  "version": "1.1.0",
+  "homepage": "https://github.com/BrianAdams/mjpeg-video-webcomponent",
+  "authors": [
+    "BrianAdams <brian@babastik.com>"
+  ],
+  "main": [
+    "mjpeg-video.html"
+  ],
+  "keywords": [
+    "Polymer",
+    "web-components",
+    "mjpeg",
+    "OpenROV",
+    "video-player"
+  ],
+  "license": "GPLV3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "example"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.2"
+  },
+  "_release": "1.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.1.0",
+    "commit": "e9cfeac2e4031551d75d782b0a07c3d5b48c8c8a"
+  },
+  "_source": "git://github.com/BrianAdams/openrov-mjpeg-video-webcomponent.git",
+  "_target": "~1.1.0",
+  "_originalSource": "mjpeg-video-webcomponents",
+  "_direct": true
+}

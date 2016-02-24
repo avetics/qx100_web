@@ -1,0 +1,22 @@
+{
+  "name": "public",
+  "version": "0.0.0",
+  "authors": [
+    "Jinah Adam <jinahadam@me.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mjpeg-video-webcomponent": "mjpeg-video-webcomponents#~1.1.0",
+    "polymer": "Polymer/polymer#~1.1.2"
+  },
+  "resolutions": {
+    "polymer": "~1.1.2"
+  }
+}
